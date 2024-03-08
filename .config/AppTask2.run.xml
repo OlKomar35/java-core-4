@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AppTask2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.komar.AppTask2" />
+    <module name="java-core-4" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="ru.komar.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
